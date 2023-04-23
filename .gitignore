@@ -158,3 +158,5 @@ speech_data
 *.model
 *.tflite
 logs
+model/1500ms-audio-model/speech_data_1500ms
+model/1500ms-audio-model/*.npz
