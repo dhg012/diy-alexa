@@ -160,3 +160,6 @@ speech_data
 logs
 model/1500ms-audio-model/speech_data_1500ms
 model/1500ms-audio-model/*.npz
+model/1500ms-audio-model/speech_data_1500ms.tar.gz
+model/1500ms-audio-model/*.tar.gz
+
